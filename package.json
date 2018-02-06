@@ -1,0 +1,25 @@
+{
+  "name": "htmlparser",
+  "version": "1.0.0",
+  "description": "Utility for parsing HTMl to plain text",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/laosdirg/htmlparser.git"
+  },
+  "keywords": [
+    "html",
+    "plain",
+    "text",
+    "parser"
+  ],
+  "author": "Laosdirg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/laosdirg/htmlparser/issues"
+  },
+  "homepage": "https://gitlab.com/laosdirg/htmlparser#README"
+}
